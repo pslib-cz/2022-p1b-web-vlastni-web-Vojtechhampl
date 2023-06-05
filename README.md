@@ -14,13 +14,13 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 
 ### HTML, struktura souborů
 
-* [ ] Web má alespoň dvě stránky provázané společnými styly
+* [X] Web má alespoň dvě stránky provázané společnými styly
 * [ ] HTML kód je validní bez chyb ve [validátoru](https://validator.w3.org/)
 * [ ] HTML značky dávají smysl, kód obsahuje ``<article>``, ``<section>``, ``<header>``, ``<nav>``.
 * [ ] Navigace mezi stránkami je tvořená přes ``<nav><ul><li><a>`` a je funkční i po zkopírování na lokální disk
-* [ ] Soubory webu jsou členěny do složek (např. ``/styles``, ``/images``, ``/fonts``)
-* [ ] Soubory webu se nacházejí v GitHubovém repozitáři
-* [ ] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
+* [X] Soubory webu jsou členěny do složek (např. ``/styles``, ``/images``, ``/fonts``)
+* [X] Soubory webu se nacházejí v GitHubovém repozitáři
+* [X] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
 * [ ] Web je dostupný přes Github Pages (do README.md přidejte odkaz)
 * [ ] Celková načítaná velikost jednotlivých stránek nepřesahuje jednotky MiB
 * [ ] Stránka obsahuje formátovaný seznam zdrojů textu a obrázků
