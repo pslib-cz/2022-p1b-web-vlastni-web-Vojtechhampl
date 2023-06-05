@@ -1,0 +1,55 @@
+@media only screen and (max-width: 600px){
+  body{
+    background-color: blue;
+  }
+}
+
+#dojednohoradku {
+  display: flex;
+  align-items: center;
+  
+  justify-content: left;  
+  
+}
+
+
+
+footer {
+  background-color: #2e97f8;
+}
+footer li {
+  color: white;
+}
+
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2e97f8;
+}
+
+nav li {
+  float: left;
+}
+
+ nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 23px 22px;
+  text-decoration: none;
+}
+
+nav li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #0177c5;
+}
+
+#logo{
+  float:right
+}
