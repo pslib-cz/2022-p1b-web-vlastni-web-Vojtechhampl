@@ -4,6 +4,11 @@
   }
 }
 
+.main-header {
+  background-image: url("../images/background.jpg");
+  min-height: 100vh;
+}
+
 #dojednohoradku {
   display: flex;
   align-items: center;
