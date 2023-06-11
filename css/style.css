@@ -9,6 +9,18 @@
   min-height: 100vh;
 }
 
+article ul{
+  list-style-type: none;
+}
+.nabidka h3{
+  display: flex;
+}
+
+.nabidka p{
+  display: flex;
+  
+}
+
 #dojednohoradku {
   display: flex;
   align-items: center;
@@ -16,9 +28,13 @@
   justify-content: left;  
   
 }
+.footr{
+  height: 30vh;
+}
 
-#logofooter {
-  justify-content: left;
+.footr img {
+  height: 100%;
+  float:right;
 }
 
 footer {
@@ -41,7 +57,7 @@ nav li {
   float: left;
 }
 
- nav li a {
+nav li a {
   display: block;
   color: white;
   text-align: center;
