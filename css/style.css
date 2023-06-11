@@ -12,7 +12,9 @@
   
 }
 
-
+#logofooter {
+  justify-content: left;
+}
 
 footer {
   background-color: #2e97f8;
