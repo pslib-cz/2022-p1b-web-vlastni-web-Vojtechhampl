@@ -38,7 +38,7 @@ article p{
   
 }
 
-#dojednohoradku {
+.dojednohoradku {
   display: flex;
   align-items: center;
   
@@ -129,7 +129,7 @@ nav li a:hover:not(.active) {
   background-color:  var(--main-bg-color);
 }
 
-#link::after{
+.link::after{
   content:"←"
 }
 
