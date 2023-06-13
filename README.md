@@ -16,25 +16,25 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 
 * [X] Web má alespoň dvě stránky provázané společnými styly
 * [ ] HTML kód je validní bez chyb ve [validátoru](https://validator.w3.org/)
-* [ ] HTML značky dávají smysl, kód obsahuje ``<article>``, ``<section>``, ``<header>``, ``<nav>``.
+* [x] HTML značky dávají smysl, kód obsahuje ``<article>``, ``<section>``, ``<header>``, ``<nav>``.
 * [x] Navigace mezi stránkami je tvořená přes ``<nav><ul><li><a>`` a je funkční i po zkopírování na lokální disk
 * [X] Soubory webu jsou členěny do složek (např. ``/styles``, ``/images``, ``/fonts``)
 * [X] Soubory webu se nacházejí v GitHubovém repozitáři
 * [X] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
 * [ ] Web je dostupný přes Github Pages (do README.md přidejte odkaz)
-* [ ] Celková načítaná velikost jednotlivých stránek nepřesahuje jednotky MiB
+* [x] Celková načítaná velikost jednotlivých stránek nepřesahuje jednotky MiB
 * [ ] Stránka obsahuje formátovaný seznam zdrojů textu a obrázků
 
 ### CSS, vzhled
 
 * [x] Stránky používají několik souborů stylů, jeden z nich je [normalize](https://necolas.github.io/normalize.css/)
-* [ ] Ke stránkám jsou připojeny externí fonty (např. přes [Google Fonts](https://fonts.google.com/))
+* [x] Ke stránkám jsou připojeny externí fonty (např. přes [Google Fonts](https://fonts.google.com/))
 * [x] Stránka obsahuje horizontální nebo vertikální menu s odkazy na celou plochu nabídky
-* [ ] Vzhled stránek je zamýšlen na mobilní telefon pro rozměr od cca 360px do 960px. Content-wrapper má omezení na ``max-width: 960px; margin: 0 auto;``
+* [x] Vzhled stránek je zamýšlen na mobilní telefon pro rozměr od cca 360px do 960px. Content-wrapper má omezení na ``max-width: 960px; margin: 0 auto;``
 * [ ] Obrázky mají rozumnou velikost pro mobilní telefon
 * [ ] Velikosti písem jsou odvozeny od kořenového elementu
 * [ ] Velikosti mezer kolem prvku jsou odvozeny od velikosti písma elementu
-* [ ] Web používá omezenou paletu barev a mezer (lze zajistit přes [proměnné v CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties))
+* [] Web používá omezenou paletu barev a mezer (lze zajistit přes [proměnné v CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties))
 * [x] Barevné schéma je vkusné a odpovídá tématu. Inspiraci můžete čerpat z [editoru palet](https://coolors.co/palettes/trending)
 * [ ] Šířka hlavního bloku stránky je omezená (tedy používá například ``width``, ``margin``, ``max-width``)
 * [x] Web obsahuje obrázek v záhlaví zobrazovaný na celou velikost/výšku obrazovky
@@ -57,7 +57,7 @@ Po splnění předchozích bodů
 * [ ] Jsou použity ikonky přes Font Awesome nebo [IcoMoon](https://icomoon.io/)
 * [ ] vytvořte galerii obrázků tvořenou náhledy vedle sebe (``display: flex`` nebo ``inline-block``)
 * [ ] Použijte pozadí přes lineární nebo radiální gradient
-* [ ] + jakékoli další vylepšení, kterým chcete zanechat přetrvávající dojem
+* [ ] + jakékoli další vylepšení, kterým chcete zanechat přetrvávající dojem    
 
 ## Kde hledat řešení a inspiraci?
 

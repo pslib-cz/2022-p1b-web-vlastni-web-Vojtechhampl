@@ -57,9 +57,23 @@ footer {
 footer li {
   color: white;
 }
-#ahoj{
-  width: 40%;
+
+#wrapper {
+  width: 90%;
+  border: 1px solid black;
+  overflow: hidden; 
 }
+#first {
+  width: 40%;
+  float:left; /* add this */
+  border: 1px solid red;
+}
+#second {
+  border: 1px solid green;
+  overflow: hidden; 
+}
+
+
 
 nav ul {
   list-style-type: none;
