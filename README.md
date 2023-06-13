@@ -21,7 +21,7 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 * [X] Soubory webu jsou členěny do složek (např. ``/styles``, ``/images``, ``/fonts``)
 * [X] Soubory webu se nacházejí v GitHubovém repozitáři
 * [X] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
-* [není možné, nemám přístup k nastavení repozitáře ] Web je dostupný přes Github Pages (do README.md přidejte odkaz)
+* [není možné, nemám přístup k nastavení repozitáře, ale abych dokázal, že toho jsem schopen, je na adrese "vojtechhampl.github.io" můj jiný web] Web je dostupný přes Github Pages (do README.md přidejte odkaz)
 * [x] Celková načítaná velikost jednotlivých stránek nepřesahuje jednotky MiB
 * [x] Stránka obsahuje formátovaný seznam zdrojů textu a obrázků
 
