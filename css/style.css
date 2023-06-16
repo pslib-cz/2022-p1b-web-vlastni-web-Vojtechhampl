@@ -1,4 +1,4 @@
-.wrapper {
+.content-wrapper {
   margin: 0 auto;  
   max-width: 960px; 
 }
@@ -52,9 +52,10 @@ article p{
 
 
 .footr img {
+  padding-left: 2vw;
   padding-right: 5vw;
-  width: 15vw;
-  max-height: 18vh;
+  height: 16vh;
+  object-fit: cover;
   float:right;
 }
 
@@ -70,9 +71,15 @@ article p{
 
 footer {
   background-color: #2e97f8;
+
 }
 footer li {
   color: white;
+}
+@media only screen and (max-width: 960px){
+  footer li {
+    font-size: 0.9em;
+  }
 }
 
 article{
@@ -81,23 +88,31 @@ article{
 
 article h2{
   padding-left: 10vw;
-  font-size: 1,8em;
+  font-size: 1.8em;
 }
 
 #wrapper {
-  width: 90vw; 
+  max-width: 100vw; 
   overflow: hidden; 
 }
 #first {
-  padding-left: 10vw;
-  width: 50vw;
+  padding-left: 2vw;
+  width: 60%;
   float:left;
   text-align: justify;
 }
-#second {
-  padding-left: 5vw;
+#wrapper #second {
+  padding-top: 10%;
+  padding-left: 1.8vw;
   overflow: hidden; 
+  width: 30%;
 }
+#second img{
+  object-fit: cover;
+  width: 100%;
+}
+
+
 @media only screen and (min-width: 961px){
   #third img{
     width:0;
@@ -109,7 +124,7 @@ article h2{
   width: 70vw;
 }
 @media only screen and (max-width: 960px){
-  #second {
+  #second img {
     width: 0;
   }
   #first{
@@ -117,9 +132,7 @@ article h2{
   }
 }
 
-#second img{
-  width: 25vw;
-}
+
 
 
 
