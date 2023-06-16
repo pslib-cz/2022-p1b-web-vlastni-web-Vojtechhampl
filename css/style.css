@@ -20,9 +20,7 @@ article ul{
   list-style-type: none;
 }
 
-article p{
-  padding-left: 10vw;
-}
+
 
 .nabidka{
   padding-left: 10vw;
@@ -87,7 +85,7 @@ article{
 }
 
 article h2{
-  padding-left: 10vw;
+
   font-size: 1.8em;
 }
 
